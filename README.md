@@ -3,6 +3,8 @@ I'm Muhammad Zain Momin, a 22-year-old male currently pursuing a bachelor's degr
 MZM45/MZM45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MZM45&theme=tokyonight" alt="mystreak"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MZM45&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://myreadme.vercel.app/api/embed/MZM45?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
